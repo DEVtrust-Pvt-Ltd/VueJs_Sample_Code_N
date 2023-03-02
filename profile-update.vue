@@ -90,7 +90,6 @@ export default {
     </div>
   </div>
 </template>
-
 <style lang="scss">
 @import "../styles/main.scss";
 .errror_msg_red {
